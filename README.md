@@ -31,7 +31,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ## 📖 Project Overview
 
-In this project, you:
+In this project, I Have:
 
 1. **Design the architecture:** a modern data warehouse with three layers, bronze, silver and gold.
 2. **Build the ETL pipelines:** load the source files and move the data through the layers.
